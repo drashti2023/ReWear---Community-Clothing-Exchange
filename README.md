@@ -22,7 +22,7 @@ By building a community-driven system, ReWear inspires conscious consumerism and
 |---------------|--------------------------------|
 | **Frontend**  | Vite + React                   |
 | **Backend**   | ASP.NET (.NET Core)            |
-| **Database**  | MongoDB                        |
+| **Database**  | MS SQL                        |
 | **Hosting**   | TBD (can be deployed to Azure or similar platforms) |
 
 ---
@@ -50,7 +50,7 @@ By building a community-driven system, ReWear inspires conscious consumerism and
 ### Prerequisites
 - Node.js and npm
 - .NET Core SDK
-- MongoDB
+- MS SQL
 
 ### Steps
 
