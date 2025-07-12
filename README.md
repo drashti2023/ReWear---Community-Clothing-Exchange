@@ -42,6 +42,7 @@ By building a community-driven system, ReWear inspires conscious consumerism and
 - 💬 Secure messaging for direct swaps
 - 🛡️ User authentication and profile management
 - 🧵 Analytics dashboard to track sustainability metrics
+- 💬 Agentic AI
 
 ---
 
