@@ -44,6 +44,8 @@ By building a community-driven system, ReWear inspires conscious consumerism and
 - 🧵 Analytics dashboard to track sustainability metrics
 - 💬 Agentic AI
 
+## Video Link: https://drive.google.com/file/d/1hpfDXhPr7mLdU_K3G64MvavJCdy3u_YY/view?usp=drivesdk
+
 ---
 
 ## 🧪 Installation
